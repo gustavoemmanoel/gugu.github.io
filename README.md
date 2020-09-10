@@ -1,2 +1,2 @@
-# gugu.github.io
+# http://gugu.github.io
 gugu curriculo
